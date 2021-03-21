@@ -1,12 +1,12 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mayk Brito</h1>
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm GeovaRS</h1>
 <h3 align="center">A Web Developer Instructor focused on helping people start programming</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=geovars" alt="geovars" /> </p>
 
-- 🔭 I’m currently working on [Rocketseat](https://github.com/Rocketseat)
+- 🔭 I’m currently working on [ShopTronix](https://github.com/ShopTronix)
 
-- 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br)
+- 👨‍💻 All of my projects are available at [grams.shoptronix.com.br](https://grams.shoptronix.com.br)
 
-- ▶️ I regulary post videos on [youtube.com/rocketseat](https://youtube.com/rocketseat)
+- ▶️ I regulary post videos on [youtube.com/geovars](https://youtube.com/geovars)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL**
 
