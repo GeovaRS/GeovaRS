@@ -37,8 +37,8 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="geovars" height="20" width="20" /></a>
 <a href="https://fb.com/geovars" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="geovars" height="20" width="20" /></a>
-<a href="https://instagram.com/geovars" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="geovars" height="20" width="20" /></a>
+<a href="https://instagram.com/gevsantos" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gevsantos" height="20" width="20" /></a>
 </p>
 
 <!--
